@@ -1,0 +1,19 @@
+###
+GET http://jsonplaceholder.typicode.com/users
+Content-Type: application/json
+
+###
+GET http://jsonplaceholder.typicode.com/comments
+Content-Type: application/json
+
+###
+GET http://jsonplaceholder.typicode.com/todos
+Content-Type: application/json
+
+###
+GET http://jsonplaceholder.typicode.com/photos/10
+Content-Type: application/json
+
+###
+GET http://jsonplaceholder.typicode.com/posts/1/comments
+Content-Type: application/json
